@@ -1,0 +1,27 @@
+[
+  {
+    "id": 7,
+    "name": "Oracle",
+    "img": "https://media-exp1.licdn.com/dms/image/C560BAQG1QEQ426NXTw/company-logo_200_200/0/1634297700659?e=2147483647&v=beta&t=aHVDkaE_3tM0Ui_5K7HxeB7j6UAwC0E0emi1DyEuBaM"
+  },
+  {
+    "id": 7,
+    "name": "C6 Bank",
+    "img": "https://media-exp1.licdn.com/dms/image/C4D0BAQHl0JF7om4BMA/company-logo_200_200/0/1543605834630?e=2147483647&v=beta&t=eykmjI47QHLW624VEEUiKJDwD1OnJVMFSBFKHhFDoXY"
+  },
+  {
+    "id": 1,
+    "name": "Banco Pan",
+    "img": "https://media-exp1.licdn.com/dms/image/C4D0BAQH_dhWETeQlRA/company-logo_200_200/0/1625258216169?e=2147483647&v=beta&t=WU98boW-v00_66oIF0021bOzp6Kjm25IfajTw2hGSoY"
+  },
+  {
+    "id": 1,
+    "name": "IFood",
+    "img": "https://media-exp1.licdn.com/dms/image/C510BAQFupNOyDYF1sg/company-logo_100_100/0/1519889601009?e=2147483647&v=beta&t=WEWjKApWhPqEHsVn0YtEHx6pQ43GXiXIPRvq7hdduAk"
+  },
+  {
+    "id": 1,
+    "name": "Banco BMG",
+    "img": "https://media-exp1.licdn.com/dms/image/C4D0BAQGQgH6OxMT94A/company-logo_100_100/0/1635788500693?e=2147483647&v=beta&t=0sFZWRW2BV2eMmRKQ7unIclzA2rVLZpci8OrZl4deII"
+  }
+]
